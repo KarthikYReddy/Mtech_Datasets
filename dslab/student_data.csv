@@ -4,3 +4,7 @@ S.No,Name, Age, Gender, Score, Attendance, Remarks
 3,Arvind, 38, Male, 79.43, 67, Promoted
 4,Sunaina, 38, Female, 89.43, 93, Promoted
 5,Vijay, 35, Male, 49.43, 45, Rejected
+6.Vinay,Male,,,Promoted
+7.Usha,,Female,,,Rejected
+8.Pradip,,Male,,,Rejected
+9.Aditya, 38, Male, , 100, Promoted
