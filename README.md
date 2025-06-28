@@ -1,2 +1,2 @@
-# Mtech_Datasets
-Datasets used for coursework/practice
+# Mtech_Exercises
+Exercises used for coursework/practice
